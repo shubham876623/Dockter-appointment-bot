@@ -1,0 +1,17 @@
+Appointment Booking: 
+
+Patient: Hello.
+
+Agent: Thank you for reaching out to Hello Hospitals. This is John. How can I assist you today?
+Patient: May I know which doctors are available in the Neurology Department, please?
+Agent: Certainly! We have Dr. James, Dr. Paul, and Dr. Mathew in our Neurology Department. Do you have a preference, or would you like some recommendations?
+Patient: I’ve been experiencing severe headaches and have already consulted a couple of neurologists, but the issue remains unresolved. I’m looking for a highly experienced neurologist.
+Agent: I understand. Based on your condition, Dr. James might be the best option. He has over 15 years of experience in neurology and has successfully treated a wide range of headache-related conditions. Would you like me to book an appointment with him?
+Patient: That sounds perfect! Yes, please go ahead.
+Agent: Great! May I know when you’d like to schedule the appointment?
+Patient: Could you tell me his available slots?
+Agent: Sure! Dr. James is available Monday to Friday from 3:00 PM to 5:00 PM. Which day and time would you prefer?
+Patient: I’d like to book an appointment for Friday at 4:00 PM.
+Agent: Got it! I’ll confirm your appointment for Friday at 4:00 PM with Dr. James.
+Patient: Thank you!
+Agent: You’re welcome! Your appointment is now confirmed. You will receive a confirmation message shortly. If you have any other questions, feel free to reach out. Have a great day!
